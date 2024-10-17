@@ -16,3 +16,4 @@ Tech stacks:
 - DaggerHilt
 - Github
 
+Total hrs duration w/ break: 8hrs 10mins
