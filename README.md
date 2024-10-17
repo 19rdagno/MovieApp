@@ -5,7 +5,7 @@ Features:
 - Add to favorites/Remove favorite on details screen
 - View List of favorite movies
 
-Tech stacks
+Tech stacks:
 - Kotlin 
 - Coroutines
 - ViewModel
